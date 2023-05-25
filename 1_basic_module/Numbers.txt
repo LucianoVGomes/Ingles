@@ -1,0 +1,39 @@
+1- one
+2- two
+3- tree
+4- four
+5- five
+6- six
+7- seven
+8- eigth
+9- nine
+10- ten
+11- eleven
+12- twelve
+13- thirteen
+14- fourteen    
+15- fifteen
+16- sixteen
+17- seventeen   
+18- eigthteen
+19- nineteen    
+20- twenty
+21- twenty-one >>> Os Demais sucessivamente twenty....
+22- twenty-two >>>
+30- thirty >>> one >>> two >>> tree
+40- forty >>> one >>> two >>> tree
+50- fifty >>> one >>> two
+60- sixty
+70- seventy
+80- eighty
+90- ninety
+100- one hundred
+200- two hundred
+1000- one thousand
+2000- two thousand
+
+ex: 572 >> hundred sig: 'Centena' 
+R:> five hundred seventy-two
+
+4896 >> thousand 'Milhar' 
+R> fuor thousand eight | hundred ninety-six
