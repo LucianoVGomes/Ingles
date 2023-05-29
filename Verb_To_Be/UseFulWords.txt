@@ -1,0 +1,72 @@
+UseFulWords 
+
+(Professions, Marital Status, Personal Characteristics, Countries and Nationalities)
+
+-------------- Professions // Profissiões-------------------
+
+Businessman    |   Businesswoman   |    Receptionist
+
+Psychologist   |   Secretary       |    Policeman
+
+Egineer        |   Architect       |    Fireman
+
+Doctor         |   Nurse           |    Dentist
+
+Lawyer         |   Actor           |    Actress
+
+
+------------- Marital Status // Estado Civil-----------------
+
+Single(Solteiro)       |    Engaged(Noivo)       | Married(Casado) 
+
+Divorced(Divorciado)   |    Widow(Woman)(Viuva)  | Widower(Man)(Viuvo)
+
+Ex-Frases: 
+
+I'm Sigle = Eu sou solteiro 
+Tom Is Divorced = Tom é divorciado 
+Emily and David are Married = Emily e David são Casados
+
+------------- Personal Characteristics // Caracteristicas Pessoais -------------
+
+Ugly  >  HandSome (Man)
+         Beautiful (Woman) 
+-----------------------
+Organized >< Desorganized 
+
+-----------------------
+Polit >< Impolite   (Educado > Mal Educado = Rude)
+
+-----------------------
+Responsible >< Irresponsible 
+
+-----------------------
+Nice >< Nasty = Awful (Legal >< Desagradavel = Awful)
+
+-----------------------
+Optimistic >< Pessimistic (Otimista >< Persimista)
+
+-----------------------
+Shy >< OutGoing (Timido >< Extrovertido)
+
+----------------------
+Honest >< Dishonest (Honesto >< Desonesto)
+
+----------------------
+Intelligent >< Dumb  (Inteligente >< Burro)
+
+---------------------
+Nervous >< Calm    (Nervoso >< Calmo)
+
+---------------------
+Dynamic >< Lazy    ( Dinamico >< Preguiçoso )
+
+---------------------
+Happy >< Unhappy (Feliz >< Infeliz)
+
+Exempls: 
+Harry is Lazy = Harry é Preguiçoso
+Suzy is an honest girl = Suzy é uma menina honesta
+They Are shy = Eles são timidos
+Is she organized ? = Ela é organizada ?
+Marck Isn't irresponsible = Marck Não é irresponsible
